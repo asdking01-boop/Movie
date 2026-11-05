@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Kras Movies</string>
+    <string name="brand_wordmark">KRAS MOVIES</string>
+    <string name="tagline">Unified Cinema &amp; Series Streaming</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_movies">Movies</string>
+    <string name="nav_series">Series</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_library">My List</string>
+    <string name="nav_sources">Sources</string>
+    <string name="play_now">Play</string>
+    <string name="more_info">More Info</string>
+    <string name="my_list">My List</string>
+    <string name="in_my_list">In My List</string>
+    <string name="content_sources">Content Sources</string>
+    <string name="add_source">Add Source</string>
+    <string name="sync_now">Sync All</string>
+    <string name="test_connection">Test Connection</string>
+</resources>

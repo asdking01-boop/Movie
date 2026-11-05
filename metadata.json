@@ -1,0 +1,6 @@
+{
+  "name": "Kras Movies",
+  "description": "A premium cinematic Android movie and TV series streaming platform that unifies authorized content sources, APIs, and playlists into a native theater experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
